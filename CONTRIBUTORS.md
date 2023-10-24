@@ -1,3 +1,8 @@
+#### Name: Pratik
+ - Place: Pune, India.
+ - Bio: Student, Pune University.
+ - GitHub: [Pratik]([https://github.com/github-pratik])
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
